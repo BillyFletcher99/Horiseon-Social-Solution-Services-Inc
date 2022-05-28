@@ -1,6 +1,10 @@
 This is my submisson for my first HW assignment! 
 Not entirely sure what to put here, it took me a while to really get a grasp on what i was changing and why,
 But eventually it started to make a little more sense. 
+
+The main goal of this HW was to refactor the code given to us for the horiseon website; The website was already up and running,
+it was in our duty to streamline it more and clean it up; NOT change the code. 
+
 Amongest some of the changes i made are the following:
 -Changed title to an accurate name
 -Added comments for a more user friendly guide
