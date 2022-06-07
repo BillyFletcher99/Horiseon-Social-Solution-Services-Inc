@@ -35,4 +35,4 @@ https://github.com/BillyFletcher99/Horiseon-Social-Solution-Services-Inc.
 
 
 <--WEBSITE LINK-->
-https://billyfletcher99.github.io/MSU-week1-Horiseon-website-Refactor/
+https://billyfletcher99.github.io/Horiseon-Social-Solution-Services-Inc./
